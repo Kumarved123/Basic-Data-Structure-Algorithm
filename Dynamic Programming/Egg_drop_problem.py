@@ -12,5 +12,4 @@ def eggDrop(n, k):
 
 n = 2
 k = 10
-print("Minimum number of trials in worst case with",
-           n, "eggs and", k, "floors is", eggDrop(n, k))
+print(eggDrop(n, k))
